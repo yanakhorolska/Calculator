@@ -82,6 +82,8 @@
         width: 525px;
         height: 70px;
         box-shadow: 0 0 10px rgba(62, 95, 138, 1);
+        padding-left: 15px;
+        background-color:azure;
     }
     .form-1:focus {
         outline: none;
